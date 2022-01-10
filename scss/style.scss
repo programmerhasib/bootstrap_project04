@@ -100,6 +100,13 @@ h3 {
   background-attachment: fixed;
 }
 
+#aboutpageheader{
+  background: url('../img/image2.jpeg');
+  background-size: cover;
+  height: 200px;
+  background-attachment: fixed;
+}
+
 #aboutboxes .fa{
   font-size: 50px;
   margin-bottom: 15px;
@@ -109,6 +116,29 @@ h3 {
 .slick-next::before{
   color: #000;
 }
+
+#servicespageheader{
+  background: url('../img/image3.jpeg');
+  background-size: cover;
+  height: 200px;
+  background-attachment: fixed;
+}
+
+#blogpageheader{
+  background: url('../img/image6.jpeg');
+  background-size: cover;
+  height: 200px;
+  background-attachment: fixed;
+}
+
+#contactpageheader{
+  background: url('../img/image4.jpeg');
+  background-size: cover;
+  height: 200px;
+  background-attachment: fixed;
+}
+
+
 
 
 
